@@ -62,6 +62,9 @@ const Wrapper = styled.div`
     width: 75px;
     height: 30px;
   }
+  button {
+    font-weight: bold;
+  }
   .join-now {
     background-color: black;
     color: white;
@@ -70,7 +73,6 @@ const Wrapper = styled.div`
     width: 100px;
     height: 30px;
   }
-
   .bottom {
     display: flex;
     align-items: center;
