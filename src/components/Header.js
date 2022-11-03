@@ -1,4 +1,3 @@
-import React from "react";
 import styled from "styled-components";
 import logo from "../img/starbucks-logo.png";
 
@@ -26,7 +25,6 @@ const Header = () => {
 };
 
 const Wrapper = styled.div`
-  font-family: "Open Sans", sans-serif;
   display: flex;
   flex-direction: column;
   font-weight: bold;
