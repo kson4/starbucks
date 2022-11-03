@@ -6,7 +6,7 @@ const Starting = () => {
   return (
     <Wrapper>
       <div className="main">
-        <p className="main-top">Getting Started is easy</p>
+        <p className="main-top large">Getting Started is easy</p>
         <p>Earn stars and get rewarded in a few easy steps</p>
       </div>
 
@@ -53,8 +53,6 @@ const Wrapper = styled.div`
     margin-bottom: 50px;
   }
   .main-top {
-    font-size: 1.75rem;
-    font-weight: bold;
     margin-bottom: 15px;
   }
 
