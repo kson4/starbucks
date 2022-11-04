@@ -27,7 +27,7 @@ const Wrapper = styled.div`
   background-color: #d4e9e2;
   font-weight: bold;
   .hero {
-    padding-left: 12vw;
+    margin-left: 12vw;
   }
   .hero > p {
     font-size: 1.1rem;
@@ -36,7 +36,7 @@ const Wrapper = styled.div`
   img {
     position: relative;
     object-fit: contain;
-    left: 7.5vw;
+    left: 10vw;
   }
 
   .hero-msg {

@@ -5,12 +5,22 @@
   font-family: "Open Sans", sans-serif;
 }
 
+body {
+  overflow-x: hidden;
+}
+
 .large {
   font-size: 1.75rem;
+  font-weight: bold;
+}
+
+.medium {
+  font-size: 1.5rem;
   font-weight: bold;
 }
 
 .small {
   font-size: 1.25rem;
   font-weight: bold;
+  margin-bottom: 30px;
 }
