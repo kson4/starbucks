@@ -37,8 +37,6 @@ const Wrapper = styled.div`
     position: relative;
     object-fit: contain;
     left: 7.5vw;
-    width: 100%;
-    height: 100%;
   }
 
   .hero-msg {
