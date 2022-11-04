@@ -97,12 +97,13 @@ const Wrapper = styled.div`
   .upper,
   .lower {
     display: flex;
+    margin-left: 8%;
   }
   .section {
     display: flex;
     justify-content: center;
-    width: 25%;
-    margin-right: 10%;
+    width: 45%;
+    padding-right: 7.5%;
   }
   img {
     width: 125px;
